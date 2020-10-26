@@ -25,10 +25,9 @@
         </video>
     </div>
     <!-- Header -->
-    <div class="nav">
-        <a class="logo" href="index.html"><img src="style/images/logo.jpg" width="40" title="一杯香梨"></a>
-        
-    </div>
+    <?php
+    include 'header.inc.php';
+    ?>
     <div class="container">
         <section class="index-travel">
             <h2>我们在这个世界留下的足迹</h2>

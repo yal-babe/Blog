@@ -36,10 +36,9 @@
 
 <body>
     <!-- Header -->
-    <div class="nav">
-        <a class="logo" href="index.html"><img src="style/images/logo.jpg" width="40" title="一杯香梨"></a>
-        <a class="logo pull-right sobtn"><span class="glyphicon glyphicon-search" style="color: #B4B4B4;"></span></a>
-    </div>
+    <?php
+    include 'header.inc.php';
+    ?>
     <!-- Body -->
     <section class="cd-hero">
         <ul class="cd-hero-slider autoplay">

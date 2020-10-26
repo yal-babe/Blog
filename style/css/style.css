@@ -913,18 +913,20 @@ pre code {
 
 .foot {
 	width: 100%;
-	padding: 1rem;
-	margin: 0;
-	color: #fff;
+	/* padding: 19px; */
+	margin: 0;	
 	background: #161618;
+	height: 63px;
 }
 
 .foot p {
 	margin: 0;
+	color:#939393;
+	line-height: 63px;
 }
 
 .foot a {
-	color: #fff;
+	/* color: #fff; */
 }
 
 .foot .fr {

@@ -1,12 +1,10 @@
 <div class="foot">
     <div class="container">
         <div class="row">
-            <div class="col-sm-4">
-                <a href="https://beian.miit.gov.cn/" target="_blank">桂ICP备2020008270号-1</a>
-            </div>
-            <div class="col-sm-8 fr">Copyright © 2020<a href="#">一杯香梨</a> 版权所有.
-            </div>
-            <p></p>
+            <p>Copyright © 2020 一杯香梨 版权所有.桂ICP备2020008270号-1</p>
+            <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=45012702000056" style="display:inline-block;text-decoration:none;">
+                <p><img src="style/images/beian.png">桂公网安备 45012702000056号</p>
+            </a>
         </div>
         <!-- 弹出层 -->
         <div class="so">
